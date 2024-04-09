@@ -3,4 +3,4 @@
 </p>
 
 # Oie ! , Bem-Vindo(a) ao meu Github 
-Sou estudante de Análise de Desenvolvimento de Sistemas <img src = "35-edit-lineal.gif" width = "50px">
+Sou estudante de Sistemas para internet <img src = "35-edit-lineal.gif" width = "50px">
